@@ -2,3 +2,5 @@ numpy
 polars
 matplotlib
 seaborn
+scipy
+scikit-learn
